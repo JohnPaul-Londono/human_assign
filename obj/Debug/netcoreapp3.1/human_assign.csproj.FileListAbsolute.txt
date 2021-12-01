@@ -1,0 +1,12 @@
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.csprojAssemblyReference.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.AssemblyInfoInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.AssemblyInfo.cs
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.csproj.CoreCompileInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/bin/Debug/netcoreapp3.1/human_assign.deps.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/bin/Debug/netcoreapp3.1/human_assign.runtimeconfig.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/bin/Debug/netcoreapp3.1/human_assign.runtimeconfig.dev.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/bin/Debug/netcoreapp3.1/human_assign.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/bin/Debug/netcoreapp3.1/human_assign.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/human_assign/obj/Debug/netcoreapp3.1/human_assign.genruntimeconfig.cache

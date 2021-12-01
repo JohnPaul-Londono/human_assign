@@ -55,11 +55,11 @@ namespace human_assign
             target.Health -= 5 * Strength;
             return target.Health;
         }
-        public virtual int extraDamage(Human target)
-        {
-            target.Health -= 10;
-            return Health; 
-        }
+        // public virtual int extraDamage(Human target)
+        // {
+        //     target.Health -= 10;
+        //     return Health; 
+        // }
 
         
 
